@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-I'm a **Sr. Threat Hunter** based in **Chicago**.
+I'm **Rico**, a Sr. Threat Hunter based in Chicago.
 
-I currently work at **SentinelOne** where I track down and neutralize cyber threats with precision. Before that, I hunted threats at **Uber** and **Dell Secureworks**.
+I currently work at SentinelOne where I track down and neutralize cyber threats with precision. Before that, I hunted threats at Uber and Dell Secureworks.
 
 I'm passionate about sharpening my skills in high-stake environments. I have contributed to designing intelligent systems that automate incident detection, response, and threat intelligence-fast, accurate, and scalable.
 
