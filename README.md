@@ -6,7 +6,7 @@ I currently work at SentinelOne where I track down and neutralize cyber threats 
 
 I'm passionate about sharpening my skills in high-stake environments. I have contributed to designing intelligent systems that automate incident detection, response, and threat intelligence-fast, accurate, and scalable.
 
-Outside of work I'm interested in keeping tabs on geopolitics and how it shapes our world. I also skateboard and collect sports trading cards.
+Outside of work I'm interested in keeping tabs on geopolitics and how it shapes our world.
 
 ### Let’s Connect!
 - [LinkedIn](http://linkedin.com/in/michael-rico-19600314a)
