@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm **Rico**, a Sr. Threat Hunter based in Chicago.
+I'm **Rico**, a Staff Threat Hunter based in Chicago.
 
 I currently work at SentinelOne where I track down and neutralize cyber threats with precision. Before that, I hunted threats at Uber and Dell Secureworks.
 
