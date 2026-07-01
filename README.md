@@ -1,13 +1,19 @@
-## Hello! 👋
+# Michael Rico
 
-I'm **Rico**, a Staff Threat Hunter based in Chicago.
+I'm a Staff Threat Hunter based in Chicago, focused on threat intelligence, incident readiness, and detection engineering.
 
-I currently work at SentinelOne where I track down and neutralize cyber threats with precision. Before that, I hunted threats at Uber and Dell Secureworks.
+I build security systems that turn noisy signals into clear, inspectable decisions. My work spans threat hunting, detection logic, analyst workflows, and public projects that make security and risk information easier to review.
 
-I'm passionate about sharpening my skills in high-stake environments. I have contributed to designing systems that automate incident detection, response, and threat intelligence that are fast, accurate, and scalable.
+Selected projects:
 
-Outside of work I'm interested in keeping tabs on geopolitics and how it shapes our world.
+- [SentrySearch](https://github.com/ricomanifesto/SentrySearch) turns scattered threat research into searchable security profiles.
+- [SentryDigest](https://github.com/ricomanifesto/SentryDigest) turns noisy security feeds into analyst-ready briefings.
+- [SentryInsight](https://github.com/ricomanifesto/SentryInsight) turns security RSS feeds into exploitation-focused threat reports.
+- [GRCInsight](https://github.com/ricomanifesto/GRCInsight) turns regulatory and security feeds into audit-ready GRC intelligence.
 
-### Let’s Connect!
-- [LinkedIn](http://linkedin.com/in/michael-rico-19600314a)
+More at [ricomanifesto.com](https://ricomanifesto.com).
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/michael-rico-19600314a)
 - [Medium](https://medium.com/@ricomanifesto)
