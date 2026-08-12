@@ -1,19 +1,23 @@
-# Michael Rico
+# Michael Rico — Staff Threat Hunter
 
-I'm a Staff Threat Hunter based in Chicago, focused on threat intelligence, incident readiness, and detection engineering.
+I'm a Staff Threat Hunter in Chicago building threat intelligence, detection engineering, and analyst-facing security systems.
 
-I build security systems that turn noisy signals into clear, inspectable decisions. My work spans threat hunting, detection logic, analyst workflows, and public projects that make security and risk information easier to review.
+I publish public proof and field notes at [Rico Manifesto](https://ricomanifesto.com/).
 
-Selected projects:
+## Selected projects
 
 - [SentrySearch](https://github.com/ricomanifesto/SentrySearch) turns scattered threat research into searchable security profiles.
 - [SentryDigest](https://github.com/ricomanifesto/SentryDigest) turns noisy security feeds into analyst-ready briefings.
 - [SentryInsight](https://github.com/ricomanifesto/SentryInsight) turns security RSS feeds into exploitation-focused threat reports.
 - [GRCInsight](https://github.com/ricomanifesto/GRCInsight) turns regulatory and security feeds into audit-ready GRC intelligence.
 
-More at [ricomanifesto.com](https://ricomanifesto.com).
+## Writing
+
+- [Writing](https://ricomanifesto.com/writing/) collects my field notes on security systems, AI agents, and observable behavior.
+- [I Thought I Was Reading a Repo](https://ricomanifesto.com/writing/i-thought-i-was-reading-a-repo/) connects agent observability with the investigative habits I learned in cybersecurity.
+- [LLM Evaluation for Threat-Intelligence Workflows](https://ricomanifesto.com/projects/sentrysearch/llm-evaluation/) documents the evaluation and validation system behind SentrySearch.
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/michael-rico-19600314a)
+- [LinkedIn](https://www.linkedin.com/in/ricomanifesto)
 - [Medium](https://medium.com/@ricomanifesto)
