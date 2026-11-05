@@ -20,4 +20,3 @@ I publish public proof and field notes at [Rico Manifesto](https://ricomanifesto
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ricomanifesto)
-- [Medium](https://medium.com/@ricomanifesto)
